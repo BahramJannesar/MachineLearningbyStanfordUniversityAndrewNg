@@ -1,0 +1,2 @@
+# MachineLearningbyStanfordUniversityAndrewNg
+Course Exercise 
